@@ -93,10 +93,6 @@ I'm constantly exploring new tools and frameworks — currently deep-diving into
   <a href="https://numpy.org/" target="_blank">
     <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="numpy logo" />
   </a>
-  <img width="12" />
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://images.seeklogo.com/logo-png/33/2/scikit-learn-logo-png_seeklogo-337685.png" height="50" alt="sckitlearn logo"/>
-  </a>
 </div>
 
 ###
