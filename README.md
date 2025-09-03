@@ -2,6 +2,10 @@
 Hi! I'm a frontend enthusiast who loves turning ideas into sleek, user-friendly interfaces. With solid experience in JavaScript, React, and Tailwind CSS, I build projects that not only look great but also perform smoothly and solve real user problems.
 
 I'm constantly exploring new tools and frameworks — currently deep-diving into React and TypeScript to craft scalable, maintainable apps. For me, coding is more than just work; it’s where creativity meets logic, and every line of code is a step toward a better user experience.
+<a href="https://dawn-venom-df1.notion.site/Yaz-l-m-Notlar-2628a3f941c98088a56ef9d2e54d1d70" target="_blank" rel="noopener noreferrer">
+  Look my notes (TR).
+</a>
+
 
 ## 🌐 Socials:
 <div align="center">
@@ -40,6 +44,10 @@ I'm constantly exploring new tools and frameworks — currently deep-diving into
     <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo" />
   </a>
   <img width="12" />
+    <a href="https://greensock.com/gsap/" target="_blank">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTySE8oQbAHSYkYcjYaIZ9N9-YVArJPyEXc-S43ziHv27qJdBc_2fYIz1_pY76IsGetAc4&usqp=CAU" height="40" alt="GSAP logo" />
+  </a>
+    <img width="12" />
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo" />
   </a>
