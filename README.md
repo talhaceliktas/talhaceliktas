@@ -1,172 +1,86 @@
 # 💫 About Me:
 Hi! I'm a frontend enthusiast who loves turning ideas into sleek, user-friendly interfaces. With solid experience in JavaScript, React, and Tailwind CSS, I build projects that not only look great but also perform smoothly and solve real user problems.
 
-I'm constantly exploring new tools and frameworks — currently deep-diving into React and TypeScript to craft scalable, maintainable apps. For me, coding is more than just work; it’s where creativity meets logic, and every line of code is a step toward a better user experience.
-<a href="https://dawn-venom-df1.notion.site/Yaz-l-m-Notlar-2628a3f941c98088a56ef9d2e54d1d70" target="_blank" rel="noopener noreferrer">
-  Look my notes (TR).
-</a>
+I'm constantly exploring new tools and frameworks — currently deep-diving into React and TypeScript to craft scalable, maintainable apps. For me, coding is more than just work; it's where creativity meets logic, and every line of code is a step toward a better user experience.
 
+<a href="https://dawn-venom-df1.notion.site/Yaz-l-m-Notlar-2628a3f941c98088a56ef9d2e54d1d70" target="_blank" rel="noopener noreferrer">
+  📚 Look my notes (TR)
+</a>
 
 ## 🌐 Socials:
 <div align="center">
   <a href="https://www.linkedin.com/in/talhaceliktas/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/sl3epwy/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:celiktas.talha@icloud.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
 # 💻 Tech Stack:
 
-<div align="left">
-  <h4 align="left">Front-end Development</h4>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  </a>
-  <img width="12" />
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  </a>
-  <img width="12" />
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  </a>
-  <img width="12" />
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" alt="nextjs logo" />
-  </a>
-  <img width="12" />
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo" />
-  </a>
-  <img width="12" />
-    <a href="https://greensock.com/gsap/" target="_blank">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTySE8oQbAHSYkYcjYaIZ9N9-YVArJPyEXc-S43ziHv27qJdBc_2fYIz1_pY76IsGetAc4&usqp=CAU" height="40" alt="GSAP logo" />
-  </a>
-    <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo" />
-  </a>
-  <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
-  </a>
-  <img width="12" />
-  <a href="https://www.qt.io/" target="_blank">
-    <img src="https://cdn.simpleicons.org/qt/41CD52" height="40" alt="qt logo" />
-  </a>
-</div>
+## 🎨 Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt"/>
+</p>
 
-###
+## ⚙️ Backend Development
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+</p>
 
-<div align="left">
-  <h4 align="left">Back-end Development</h4>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo" />
-  </a>
-  <img width="12" />
-  <a href="https://en.cppreference.com/w/c" target="_blank">
-    <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo" />
-  </a>
-  <img width="12" />
-  <a href="https://en.cppreference.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo" />
-  </a>
-  <img width="12" />
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
-  </a>
-</div>
+## 🤖 AI & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+</p>
 
-###
+## 🗄️ Database
+<p>
+  <img src="https://img.shields.io/badge/Supabase-3fd08e?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+</p>
 
-<div align="left">
-  <h4 align="left">AI</h4>
-  <a href="https://opencv.org/" target="_blank">
-    <img src="https://www.svgrepo.com/show/354139/opencv.svg" height="40" alt="opencv logo" />
-  </a>
-  <img width="12" />
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
-  </a>
-  <img width="12" />
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" />
-  </a>
-  <img width="12" />
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="numpy logo" />
-  </a>
-</div>
+## 📱 Version Control
+<p>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
 
-###
-
-<div align="left">
-  <h4 align="left">Database</h4>
-  <a href="https://supabase.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="supabase logo" />
-  </a>
-  <img width="12" />
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo" />
-  </a>
-  <img width="12" />
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  </a>
-  <img width="12" />
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-  </a>
-  <img width="12" />
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo" />
-  </a>
-</div>
-
-###
-
-<div align="left">
-  <h4 align="left">Version Control</h4>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-  </a>
-  <img width="12" />
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  </a>
-</div>
-
-###
-
-<div align="left">
-  <h4 align="left">Deployment</h4>
-  <a href="https://vercel.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="vercel logo" />
-  </a>
-  <img width="12" />
-  <a href="https://www.netlify.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify logo" />
-  </a>
-    <img width="12" />
-  <a href="https://railway.com/" target="_blank">
-    <img src="https://railway.app/brand/logo-dark.svg" height="40" alt="railway logo" />
-  </a>
-    <img width="12" />
-  <a href="https://render.com/" target="_blank">
-    <img src="https://cdn.sanity.io/images/34ent8ly/production/ec37a3660704e1fa2b4246c9a01ab34e145194ad-824x824.png" height="40" alt="render logo" />
-  </a>
-</div>
-
-###
-
+## 🚀 Deployment & Hosting
+<p>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+  <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
+</p>
 
 ## 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=talhaceliktas&theme=onedark&hide_border=false)<br/>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=talhaceliktas&theme=transparent&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak Stats"/>
+</div>
 
 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=talhaceliktas&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaceliktas&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Top Languages"/>
+</div>
