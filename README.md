@@ -152,6 +152,14 @@ I'm constantly exploring new tools and frameworks — currently deep-diving into
   <a href="https://www.netlify.com/" target="_blank">
     <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify logo" />
   </a>
+    <img width="12" />
+  <a href="https://railway.com/" target="_blank">
+    <img src="https://railway.app/brand/logo-dark.svg" height="40" alt="railway logo" />
+  </a>
+    <img width="12" />
+  <a href="https://render.com/" target="_blank">
+    <img src="https://cdn.sanity.io/images/34ent8ly/production/ec37a3660704e1fa2b4246c9a01ab34e145194ad-824x824.png" height="40" alt="render logo" />
+  </a>
 </div>
 
 ###
