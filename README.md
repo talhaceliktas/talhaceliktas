@@ -87,8 +87,6 @@ For me, coding is more than just work; it's where scalable architecture meets se
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=talhaceliktas&theme=react&show_icons=true&hide_border=true&count_private=true" alt="Talha's Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=talhaceliktas&theme=react&hide_border=true" alt="Talha's Streak" />
-  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaceliktas&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Talha's Top Languages" />
 </div>
