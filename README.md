@@ -11,7 +11,7 @@ For me, coding is more than just work; it's where scalable architecture meets se
 
 ## 🌐 Socials:
 <div align="center">
-  <a href="https://www.talhaceliktas.com" target="_blank">
+  <a href="https://talhaceliktas.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/talhaceliktas/" target="_blank">
@@ -19,9 +19,6 @@ For me, coding is more than just work; it's where scalable architecture meets se
   </a>
   <a href="mailto:celiktas.talha@icloud.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.instagram.com/sl3epwy/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
 
